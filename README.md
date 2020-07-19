@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <img src="" style="width:150px; height150px; border-radius:50%;">
   <br><br>
   <samp>
-    Hello, welcome to my github. You can call me Threezh1 (Threezh1), now a junior in Information Security major of CUIT, and a member of D0g3 Security Laboratory.
+    Hello, welcome to my github. You can call me Threezh1 (三之), now a junior in Information Security major of CUIT, and a member of D0g3 Security Laboratory.
   </samp>
 </p>
