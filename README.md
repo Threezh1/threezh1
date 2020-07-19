@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="http://m.qpic.cn/psc?/V12lk5Pe0lm8CH/z0FoRwOKNzDqijnYQCKTgdY8xMMJRcLurHfBr3dSJBcO*LcRpcc.a1.WvIdo3rgl9R9HZ6xpOsYGajM0UKTRMZE6l*dOpv.os*1IX4mhiuQ!/b" style="width:150px; height150px; border-radius:50%;">
+  <img src="" style="width:150px; height150px; border-radius:50%;">
   <br><br>
   <samp>
     Hello, welcome to my github. You can call me Threezh1 (Threezh1), now a junior in Information Security major of CUIT, and a member of D0g3 Security Laboratory.
