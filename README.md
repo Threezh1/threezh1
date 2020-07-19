@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <img src="" width=100>
   <br><br>
   <samp>
-    Hello, Welcome to my github page.
+    Hello, welcome to my github. You can call me Threezh1 (Threezh1), now a junior in Information Security major of Chengdu University of Information Technology, and a member of D0g3 Security Laboratory.
   </samp>
 </p>
