@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![visitcount](https://profile-counter.glitch.me/Threezh1/count.svg)
