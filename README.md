@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Threezh1(三之)</h1>
 <img align='right' src="https://media.giphy.com/media/damUMYvgrroqw2hxSu/giphy.gif" width="230">
-<p>A junior in Information Security major of CUIT, and a member of <a href="https://www.d0g3.cn/">D0g3</a> Security Laboratory.<img src="images/dog_head.png" width="30"> Recently, I am improving my technical level👍, creating useful tools🔨, and learning interesting knowledge🧠. Besides, I usually like watching movies and skateboarding.<img src="https://media.giphy.com/media/eKImFk6Jv2q1zvRDDl/giphy.gif" width="40"></p>
+<p>A junior in Information Security major of CUIT, and a member of <a href="https://www.d0g3.cn/">D0g3</a> Security Laboratory.<img src="https://github.com/Threezh1/threezh1/blob/master/images/dog_head.png?raw=true" width="30"> Recently, I am improving my technical level👍, creating useful tools🔨, and learning interesting knowledge🧠. Besides, I usually like watching movies and skateboarding.<img src="https://media.giphy.com/media/eKImFk6Jv2q1zvRDDl/giphy.gif" width="30"></p>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A little more about me
 
