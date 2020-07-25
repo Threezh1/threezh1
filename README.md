@@ -1,5 +1,6 @@
 <h2>Hi 👋, I'm Threezh1(三之)</h1>
-<img align='right' src="https://media.giphy.com/media/damUMYvgrroqw2hxSu/giphy.gif" width="230"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A junior in Information Security major of CUIT, and a member of <a href="https://www.d0g3.cn/">D0g3</a> Security Laboratory.<img src="./images/dog_head.png" width="30">
+<img align='right' src="https://media.giphy.com/media/damUMYvgrroqw2hxSu/giphy.gif" width="230">
+<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A junior in Information Security major of CUIT, and a member of <a href="https://www.d0g3.cn/">D0g3</a> Security Laboratory.<img src="./images/dog_head.png" width="30"></p>
 
 - 🔭 I’m currently working on **tencent**
 - 🤔 I’m looking for help with **bugbounty**
