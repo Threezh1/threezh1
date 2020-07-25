@@ -8,8 +8,7 @@
 - 💬 Need help with: **ctf, bugbounty, Development**
 - 📫 Most Time: **makefoxm@qq.com**
 
-![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
 <img src="https://profile-counter.glitch.me/Threezh1/count.svg" alt="visitcount" width="120"/>
