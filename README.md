@@ -8,7 +8,14 @@
 - 💬 Need help with: **ctf, bugbounty, Development**
 - 📫 Most Time: **makefoxm@qq.com**
 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+### Languages and Tools:
+
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Threezh1)
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
 <img src="https://profile-counter.glitch.me/Threezh1/count.svg" alt="visitcount" width="120"/>
