@@ -4,7 +4,6 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A little more about me
 
-- 🧑🏼‍💻 Currently an intern at Tencent
 - 🌱 I’m looking for help with **ctf, bugbounty, Development😭**
 - 📫 How to reach me: **makefoxm@qq.com**
 - 💬 Ask me about anything, I am happy to help
